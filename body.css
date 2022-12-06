@@ -1,0 +1,21 @@
+
+.first-part {
+    
+    max-width:1500px;
+    margin: 0 auto;
+   padding-top:20px;
+    text-align:center;
+    
+}
+.second-part {
+    padding-left:200px;
+    text-align:left ;
+}
+
+
+
+.giallino{
+    color:rgba(17, 132, 101, 0.718);
+    background-color: lightyellow;
+    line-height: 40px; /* serve per centrare il testo in una linea di altezza 20 px*/
+}
